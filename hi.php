@@ -7,7 +7,7 @@
 
 <body>
 <form action="ans.php" method="post">
-first name:<input type="text" name="fname" />
+first <input type="text" name="fname" />
 <input type="submit" value="submit" />
 </form>
 </body>
